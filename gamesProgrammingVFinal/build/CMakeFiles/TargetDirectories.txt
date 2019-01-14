@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/gamesProgrammingVFinal/build/CMakeFiles/conanTest.dir
+C:/Users/Admin/Desktop/gamesProgrammingVFinal/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Desktop/gamesProgrammingVFinal/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,39 @@
+1
+00:00:03-->00:00:06
+Main Menu
+2
+00:00:08.00-->00:00:22.00
+Screen can be Moved and resized
+3
+00:00:23.00-->00:00:26.00
+Sprite Rendering and Dot Collision
+4
+00:00:27.00-->00:00:29.00
+Fullscreen
+5
+00:00:30.00-->00:00:39.00
+Pac Wall Collision
+6
+00:00:41.00-->00:00:46.00
+2 enemies moviing
+7
+00:00:50.00-->00:01:00.00
+Collecting Dots to free all enemies
+8
+00:01:01.00-->00:01:07.00
+With a score 60 or Above all enemies can move
+9
+00:01:13.00-->00:01:15.00
+Collison with enemy and Game over screen
+10
+00:01:20.00-->00:01:23.00
+Closing the game using Esc at menu
+11
+00:01:24.00-->00:01:28.00
+Closing the game using Esc in game 
+12
+00:01:40.00-->00:02:11.00
+Collecting Dots to get to 100 which i have set as complete
+13
+00:02:12.00-->00:02:15.00
+You win screen will be when you collect all dots for this video i have turned the number down
